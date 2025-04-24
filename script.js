@@ -18,3 +18,4 @@ button.addEventListener('click', function(){
     console.log('JSON format: ')
     console.log(JSON.stringify(person))
 })
+//s
